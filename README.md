@@ -38,6 +38,7 @@ To recreate the development environment, you need the following software and/or 
 I found these websites useful in developing this software:
 
 * [Optical Recognition of Handwritten Digits](https://archive.ics.uci.edu/dataset/80/optical+recognition+of+handwritten+digits)
+* [Sci Kit Tutorial](https://scikit-learn.org/1.4/tutorial/basic/tutorial.html)
 
 ## Future Work
 
